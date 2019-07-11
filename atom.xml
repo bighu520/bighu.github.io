@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bighu520.github.io</id>
     <title>曹说春秋</title>
-    <updated>2019-07-11T14:45:07.197Z</updated>
+    <updated>2019-07-11T14:57:27.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bighu520.github.io"/>
     <link rel="self" href="https://bighu520.github.io/atom.xml"/>
@@ -10,21 +10,6 @@
     <logo>https://bighu520.github.io/images/avatar.png</logo>
     <icon>https://bighu520.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 曹说春秋</rights>
-    <entry>
-        <title type="html"><![CDATA[Links]]></title>
-        <id>https://bighu520.github.io/post/links</id>
-        <link href="https://bighu520.github.io/post/links">
-        </link>
-        <updated>2019-07-11T14:19:53.000Z</updated>
-        <summary type="html"><![CDATA[<h3 id="一起走在路上的人">一起走在路上的人</h3>
-]]></summary>
-        <content type="html"><![CDATA[<h3 id="一起走在路上的人">一起走在路上的人</h3>
-<!-- more -->
-<blockquote>
-<p><a href="https://blog.dylanwu.space/">瓠樽</a></p>
-</blockquote>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[一逼屌糟的文学之路]]></title>
         <id>https://bighu520.github.io/post/yi-bi-diao-zao-de-wen-xue-zhi-lu</id>
@@ -51,27 +36,6 @@
 <p>后记：那时的文字能印出来是非常慎重的事，不同于现在，随便写个东西就能打印出来。回想起来，我的文字在高一常在校报上，还有一次语文老师递给我一本岳阳市文联的内部刊物，说是帮我把诗发表在上面了。除此之外，发表这种激动人心的事再无甚了了。那些文字也随岁月消逝，再也找不到。信息时代，写过一年的公众号，后中断及全部删除。
 全仗中逸兄鞭策督促，这边算是赶鸭子上架，再来一次。</p>
 <p><img src="https://bighu520.github.io/post-images/1562587855827.jpg" alt=""></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[個人網站記]]></title>
-        <id>https://bighu520.github.io/post/ge-ren-wang-zhan-ji</id>
-        <link href="https://bighu520.github.io/post/ge-ren-wang-zhan-ji">
-        </link>
-        <updated>2019-06-30T14:37:28.000Z</updated>
-        <summary type="html"><![CDATA[<p>得中逸之策，扬自由之意志</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>得中逸之策，扬自由之意志</p>
-<!-- more -->
-<p>中逸，海陵人，其貌俊逸，善畫人物，尤好思辨，於藝術、時事皆頗有見地。繪事之餘，工信息之術。
-己亥夏日，助我建此站。意在我之呻吟語有一席之地而不受制於人，乃此君自由意志之彰顯。特此為記。</p>
-<p>申明如下：</p>
-<blockquote>
-<p>1、此站之文字、圖片均保留權利</p>
-<p>2、未注釋者，皆為原創</p>
-<p>3、轉載需註明出處</p>
-<p>4、交流：chunqiu@bighu.cn</p>
-</blockquote>
 ]]></content>
     </entry>
     <entry>
