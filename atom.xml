@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bighu520.github.io</id>
     <title>曹说春秋</title>
-    <updated>2019-07-18T05:10:27.827Z</updated>
+    <updated>2019-08-05T14:01:32.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bighu520.github.io"/>
     <link rel="self" href="https://bighu520.github.io/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://bighu520.github.io/images/avatar.png</logo>
     <icon>https://bighu520.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 曹说春秋</rights>
+    <entry>
+        <title type="html"><![CDATA[失语症]]></title>
+        <id>https://bighu520.github.io/post/shi-yu-zheng</id>
+        <link href="https://bighu520.github.io/post/shi-yu-zheng">
+        </link>
+        <updated>2019-08-05T14:01:16.000Z</updated>
+        <summary type="html"><![CDATA[<p>常常无话可说，或者没有什么好说的。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>常常无话可说，或者没有什么好说的。</p>
+<!-- more -->
+<p>还记得年轻时，面对什么东西什么事都忍不住发表议论。大部分都觉得自己对，偶尔反思自己讲错也没多久就忘了，下次还会忍不住大谈特谈。</p>
+<p>不知道从什么时候开始，会为自己谈错的地方耿耿于怀。庆幸自己还是会知错的，没改的是偶然与能力问题。</p>
+<p>只是越长大就越不想发表议论了。</p>
+<p>我想，一来是信息量大了，对事物的了解常常担心不够全面；二来是没有动力，话语中心散了，说与不说都没什么关系。</p>
+<p>记得写论文提纲时，导师会说写论文的状态应该是一个饿了很久的人看到街边食物摊子上的食物的反应。那是什么？抢！同样的道理，写论文是心里有话不得不说，非说不可，不说就憋死！</p>
+<p>于世俗而言，确实没有什么可说的。庆幸在本专业上还是有些问题不得不说的。</p>
+<p>不想说，没什么好说的。这种状态持续了很长时间。后来想着写什么，不管是键盘敲还是手写总是处于流产状态。拖延、流产、拖延、流产……</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[生死河]]></title>
         <id>https://bighu520.github.io/post/sheng-si-he</id>
