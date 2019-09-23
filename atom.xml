@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://bighu520.github.io</id>
+    <id>https://chunqiu.bighu.cn</id>
     <title>曹说春秋</title>
-    <updated>2019-09-23T11:54:20.226Z</updated>
+    <updated>2019-09-23T12:05:32.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://bighu520.github.io"/>
-    <link rel="self" href="https://bighu520.github.io/atom.xml"/>
+    <link rel="alternate" href="https://chunqiu.bighu.cn"/>
+    <link rel="self" href="https://chunqiu.bighu.cn/atom.xml"/>
     <subtitle>人生一世 草木一秋</subtitle>
-    <logo>https://bighu520.github.io/images/avatar.png</logo>
-    <icon>https://bighu520.github.io/favicon.ico</icon>
+    <logo>https://chunqiu.bighu.cn/images/avatar.png</logo>
+    <icon>https://chunqiu.bighu.cn/favicon.ico</icon>
     <rights>All rights reserved 2019, 曹说春秋</rights>
     <entry>
         <title type="html"><![CDATA[说说]]></title>
-        <id>https://bighu520.github.io/post/shuo-shuo</id>
-        <link href="https://bighu520.github.io/post/shuo-shuo">
+        <id>https://chunqiu.bighu.cn/post/shuo-shuo</id>
+        <link href="https://chunqiu.bighu.cn/post/shuo-shuo">
         </link>
         <updated>2019-09-19T14:40:26.000Z</updated>
         <content type="html"><![CDATA[<!-- 晴天说说_v1.11 2019-05-18 星球彦 http://storeweb.cn -->
@@ -212,8 +212,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[孤独是一种病]]></title>
-        <id>https://bighu520.github.io/post/gu-du-shi-yi-chong-bing</id>
-        <link href="https://bighu520.github.io/post/gu-du-shi-yi-chong-bing">
+        <id>https://chunqiu.bighu.cn/post/gu-du-shi-yi-chong-bing</id>
+        <link href="https://chunqiu.bighu.cn/post/gu-du-shi-yi-chong-bing">
         </link>
         <updated>2019-08-16T01:42:38.000Z</updated>
         <summary type="html"><![CDATA[<p>一包花生豆，从桂花酿喝到青梅酿。再来一根煊赫门，却不爱一个人。</p>
@@ -229,8 +229,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[失语症]]></title>
-        <id>https://bighu520.github.io/post/shi-yu-zheng</id>
-        <link href="https://bighu520.github.io/post/shi-yu-zheng">
+        <id>https://chunqiu.bighu.cn/post/shi-yu-zheng</id>
+        <link href="https://chunqiu.bighu.cn/post/shi-yu-zheng">
         </link>
         <updated>2019-08-05T14:01:16.000Z</updated>
         <summary type="html"><![CDATA[<p>常常无话可说，或者没有什么好说的。</p>
@@ -248,8 +248,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[生死河]]></title>
-        <id>https://bighu520.github.io/post/sheng-si-he</id>
-        <link href="https://bighu520.github.io/post/sheng-si-he">
+        <id>https://chunqiu.bighu.cn/post/sheng-si-he</id>
+        <link href="https://chunqiu.bighu.cn/post/sheng-si-he">
         </link>
         <updated>2019-07-12T11:55:08.000Z</updated>
         <summary type="html"><![CDATA[<p>这条河，翻山越岭，看尽世事沧桑、人情冷暖。人的故事，不是生离，就是死别。</p>
@@ -268,13 +268,13 @@
 <p>在将近30岁的时候，爷爷也走了。老爷子生前嘱咐：一切从简，不哭灵、不办道场、不游丧，祭水在屋旁的池塘，不去河边，烧成灰放罐子里埋在菜园子里。后来，一切仍是按旧俗，只是遵循不游丧，在屋边池塘祭水。</p>
 <p>岁月如梦。资水蜿蜒，见过的生离死别又何止我家这一家。</p>
 <hr>
-<p><img src="https://bighu520.github.io/post-images/1562989734257.jpg" alt=""></p>
+<figure data-type="image" tabindex="1"><img src="https://chunqiu.bighu.cn/post-images/1562989734257.jpg" alt=""></figure>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Links]]></title>
-        <id>https://bighu520.github.io/post/links</id>
-        <link href="https://bighu520.github.io/post/links">
+        <id>https://chunqiu.bighu.cn/post/links</id>
+        <link href="https://chunqiu.bighu.cn/post/links">
         </link>
         <updated>2019-07-11T14:19:53.000Z</updated>
         <summary type="html"><![CDATA[<h3 id="一起走在路上的人">一起走在路上的人</h3>
@@ -448,8 +448,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[一逼屌糟的文学之路]]></title>
-        <id>https://bighu520.github.io/post/yi-bi-diao-zao-de-wen-xue-zhi-lu</id>
-        <link href="https://bighu520.github.io/post/yi-bi-diao-zao-de-wen-xue-zhi-lu">
+        <id>https://chunqiu.bighu.cn/post/yi-bi-diao-zao-de-wen-xue-zhi-lu</id>
+        <link href="https://chunqiu.bighu.cn/post/yi-bi-diao-zao-de-wen-xue-zhi-lu">
         </link>
         <updated>2019-07-08T12:23:23.000Z</updated>
         <summary type="html"><![CDATA[<p>我那一逼屌糟的文学之路，只是青春困苦的无病呻吟。</p>
@@ -471,7 +471,7 @@
 <hr>
 <p>后记：那时的文字能印出来是非常慎重的事，不同于现在，随便写个东西就能打印出来。回想起来，我的文字在高一常在校报上，还有一次语文老师递给我一本岳阳市文联的内部刊物，说是帮我把诗发表在上面了。除此之外，发表这种激动人心的事再无甚了了。那些文字也随岁月消逝，再也找不到。信息时代，写过一年的公众号，后中断及全部删除。<br>
 全仗中逸兄鞭策督促，这边算是赶鸭子上架，再来一次。</p>
-<p><img src="https://bighu520.github.io/post-images/1562587855827.jpg" alt=""></p>
+<figure data-type="image" tabindex="1"><img src="https://chunqiu.bighu.cn/post-images/1562587855827.jpg" alt=""></figure>
 ]]></content>
     </entry>
 </feed>
