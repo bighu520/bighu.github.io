@@ -512,6 +512,9 @@ a:active {
   color: #333;
   letter-spacing: 4px;
 }
+.avatar img {
+  width: 100%;
+}
 .about h2 {
   color: #444;
   font-size: 2em;
